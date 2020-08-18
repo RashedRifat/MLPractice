@@ -1,4 +1,4 @@
-# MLPractice
+# ML Practice
 
 All of the documents created here are made to both to show my journey into machine learning as well as serving as a way for myself to version control the various projects in place. Please feel free to look around and see if there is anything that interests you! 
 
